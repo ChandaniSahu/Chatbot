@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.charu{
+    border:1px solid black;
+}
+
+.container::-webkit-scrollbar { /* WebKit browsers (Chrome, Safari, etc.) */
+    display: none;
+  }
